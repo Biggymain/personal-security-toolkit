@@ -1,0 +1,5 @@
+# Ignore secrets & runtime files
+.env
+*.sqlite
+*.log
+__pycache__/
